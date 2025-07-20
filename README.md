@@ -230,13 +230,13 @@ DATABASES = {
 - Configure API base URL for production
 - Set up environment variables for production
 
-### ScreenShot
+## ScreenShot
 
-# Registration/Login
+#### Registration/Login
 <img width="1919" height="893" alt="Screenshot 2025-07-20 202653" src="https://github.com/user-attachments/assets/7a0ea2d2-c2d3-4ab4-8519-afce1b0a083f" />
 <img width="1919" height="944" alt="Screenshot 2025-07-20 202643" src="https://github.com/user-attachments/assets/9c880de4-ff20-47be-8068-8a3ed83a680f" />
 
-#View Content(CRUD Function)
+#### View Content(CRUD Function)
 <img width="1915" height="1017" alt="image" src="https://github.com/user-attachments/assets/3d24c472-6de1-4906-91f2-069c28b0c90e" />
 <img width="1914" height="1030" alt="Screenshot 2025-07-20 212822" src="https://github.com/user-attachments/assets/99aec8bb-9c87-4b97-9da7-dc2dcd7f5f7f" />
 
