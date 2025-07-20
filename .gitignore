@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+env/
+venv/
+*.sqlite3
+
+# Django
+*.log
+*.pot
+*.pyc
+*.db
+*.DS_Store
+media/
+staticfiles/
+
+# VSCode/IDEA/etc
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/
